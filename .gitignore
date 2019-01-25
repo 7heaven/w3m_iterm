@@ -23,3 +23,6 @@ w3mhelp-lynx_ja.html
 w3mhelp-w3m_en.html
 w3mhelp-w3m_ja.html
 posubst
+
+*.o
+*.a
