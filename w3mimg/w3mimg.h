@@ -52,6 +52,9 @@ extern w3mimg_op *w3mimg_fbopen();
 #ifdef USE_W3MIMG_WIN
 extern w3mimg_op *w3mimg_winopen();
 #endif
+#ifdef USE_W3MIMG_ITERM
+extern w3mimg_op *w3mimg_itermopen();
+#endif
 
 extern w3mimg_op *w3mimg_open();
 
